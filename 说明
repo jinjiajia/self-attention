@@ -1,0 +1,9 @@
+本例进行self_attention模型分类任务精度测试。
+
+run_epoch.py 分为词级与字符级
+attention_map.py可视化
+
+jiebauserdict100w.txt分词词典
+vector_word1.npz是腾讯开源100wword2vec训练出来的
+
+
